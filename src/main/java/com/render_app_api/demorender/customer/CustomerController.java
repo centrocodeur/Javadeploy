@@ -13,7 +13,8 @@ public class CustomerController {
     new Customer(1L, "Marien", "Tapande", "marien@gmail.com"),
     new Customer(2L, "carene", "Tapande", "Carene@gmail.com"),
     new Customer(3L, "Elisa", "Tapande", "elisa@gmail.com"),
-    new Customer(4L, "Mathis", "Tapande", "mathis@gmail.com")
+    new Customer(4L, "Mathis", "Tapande", "mathis@gmail.com"),
+    new Customer(4L, "Venius", "Tapande", "nevius@gmail.com")
   );
   
 
